@@ -1,7 +1,7 @@
-# Rules 
+# Alexia - MD Bot Whatsapp
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents) 
 <p align="center">
-  <img src="https://i.ibb.co/CnxQydQ/Project-A64497-D-1.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <img src="https://telegra.ph//file/b052dd73db60547dd7b65.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <p align="center">
   <a href="https://github.com/ZorsMD/Alexia-MD">
