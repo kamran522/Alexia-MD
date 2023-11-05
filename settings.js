@@ -10,16 +10,16 @@ const chalk = require('chalk')
 global.lol = '' // https://api.lolhuman.xyz
 global.xzn = '' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = '6283892216115' // Owner Utama
-global.owner = ['6283892216115', '6283892216115'] // Owner Lainnya
+global.numberowner = '923323963788' // Owner Utama
+global.owner = ['923323963788'] // Owner Lainnya
 global.namaowner = 'Zors お-ぎ' // Nama Owner
-global.premium = ["6283892216115"] // Premium User
-global.nobot = '628561005249'
+global.premium = ["923323963788"] // Premium User
+global.nobot = '923323963788'
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
 global.namabot = 'Alexia-MD' // NickBot
 global.typemenu = 'v2' // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = 'v1' // 'v1' > 'v2'
-global.autoread = true // ReadChat
+global.autoread = false // ReadChat
 global.autobio = false // AutoBio
 global.autoblok212 = true // AutoBlock Nomer +212
 global.onlyindo = false  // AutoBlock Selain Nomer Indo
